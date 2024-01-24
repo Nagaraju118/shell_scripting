@@ -1,0 +1,117 @@
+conditional satements
+------------------------
+if statement:-
+------------
+if [ condition ];
+then
+   statement
+fi
+
+
+
+
+if-else statement:-
+-------------------
+if [ condition ];
+then
+    statement1
+else
+    statement2
+
+
+
+
+
+
+if-elif statement:-
+--------------------
+if [ conditio ];
+then
+    statement1
+elif [ condition ];
+then
+    statement2
+else
+    statement3
+
+
+
+
+
+
+looping statements:
+----------------------------
+
+for-loop:-
+-----------
+for var in collectiondatatype
+do
+  statement
+done
+
+
+
+while-loop:-
+------------
+while [ condition ]
+do
+  statememt
+done
+
+
+
+
+
+until-loop:-
+-----------
+until [ condition ]
+do
+  statement
+done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
